@@ -17,11 +17,23 @@ class CSKPoint:
         self.g = g
         self.b = b
 
+    def get_color(self):
+        return (self.r, self.g, self.b)
+
+    def __str__(self):
+        return f'({self.r}, {self.g}, {self.b})'
+
 class CSKConstellation:
     #Ensure that size of constellation remains consistent throughout implementation
-    def __init__(self, points):
-        self.points = []
-        self.size_of_constellation = len(self.points)
+    def __init__(self, method):
+        self.size_C = method  #Size should always be fixed to match M-CSK method
+        self.points = [None] * self.size_C        #Input points as list of color
+
+    def add_point(self, index, point):
+        self.points[index] = point #Point should be a CSKPoint object
+
+    def __str__(self):
+        return f'{self.points}'
 
 
 def convert_to_binary(string):
@@ -45,20 +57,14 @@ def convert_to_binary(string):
 
 
 def map_constellation(bin):
-    constellation = list()
+    cons = CSKConstellation(len(bin) * 4) #Each character should be 8 bits sorted into 4 2-bit packages
     
+    i = 0
     for c in bin:
         for p in c:
-            constellation.append(bit_transform[p])
+            co = bit_transform[p]
+            color_point = CSKPoint(co[0], co[1], co[2])
+            cons.add_point(i, color_point)
+            i += 1
 
-    return constellation
-
-
-transmission = input('Please give a string to transmit: ')
-binary_grouping = convert_to_binary(transmission)
-for n in binary_grouping:
-    print(type(n))
-print(binary_grouping)
-sent_constellation = map_constellation(binary_grouping)
-print(sent_constellation)
-display_transmission(sent_constellation)
+    return cons

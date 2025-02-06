@@ -12,8 +12,10 @@ def display_transmission(constellation):
 
     sleep(3)
 
-    for color in constellation:
-        screen.fill(color)
+    points = constellation.points
+
+    for p in points:
+        screen.fill(p.get_color())
         pygame.display.flip()
         sleep(1)
 
