@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="6324px"
+	 height="3252px" viewBox="0 0 6324 3252" enable-background="new 0 0 6324 3252" xml:space="preserve">
+<g id="material-design-color-chart">
+	<g>
+		<rect x="125" y="372" fill="#FFEBEE" width="300" height="180"/>
+		<rect x="125" y="556" fill="#FFCDD2" width="300" height="180"/>
+		<rect x="125" y="740" fill="#EF9A9A" width="300" height="180"/>
+		<rect x="125" y="924" fill="#E57373" width="300" height="180"/>
+		<rect x="125" y="1108" fill="#EF5350" width="300" height="180"/>
+		<rect x="125" y="1292" fill="#F44336" width="300" height="180"/>
+		<rect x="125" y="1476" fill="#E53935" width="300" height="180"/>
+		<rect x="125" y="1660" fill="#D32F2F" width="300" height="180"/>
+		<rect x="125" y="1844" fill="#C62828" width="300" height="180"/>
+		<rect x="125" y="2028" fill="#B71C1C" width="300" height="180"/>
+		<rect x="125" y="2395.88" fill="#FF8A80" width="300" height="180"/>
+		<rect x="125" y="2579.88" fill="#FF5252" width="300" height="180"/>
+		<rect x="125" y="2763.88" fill="#FF1744" width="300" height="180"/>
+		<rect x="125" y="2947.88" fill="#D50000" width="300" height="180"/>
+		<rect x="429" y="372" fill="#FCE4EC" width="300" height="180"/>
+		<rect x="429" y="556" fill="#F8BBD0" width="300" height="180"/>
+		<rect x="429" y="740" fill="#F48FB1" width="300" height="180"/>
+		<rect x="429" y="924" fill="#F06292" width="300" height="180"/>
+		<rect x="429" y="1108" fill="#EC407A" width="300" height="180"/>
+		<rect x="429" y="1292" fill="#E91E63" width="300" height="180"/>
+		<rect x="429" y="1476" fill="#D81B60" width="300" height="180"/>
+		<rect x="429" y="1660" fill="#C2185B" width="300" height="180"/>
+		<rect x="429" y="1844" fill="#AD1457" width="300" height="180"/>
+		<rect x="429" y="2028" fill="#880E4F" width="300" height="180"/>
+		<rect x="429" y="2395.88" fill="#FF80AB" width="300" height="180"/>
+		<rect x="429" y="2579.88" fill="#FF4081" width="300" height="180"/>
+		<rect x="429" y="2763.88" fill="#F50057" width="300" height="180"/>
+		<rect x="429" y="2947.88" fill="#C51162" width="300" height="180"/>
+		<rect x="733" y="372" fill="#F3E5F5" width="300" height="180"/>
+		<rect x="733" y="556" fill="#E1BEE7" width="300" height="180"/>
+		<rect x="733" y="740" fill="#CE93D8" width="300" height="180"/>
+		<rect x="733" y="924" fill="#BA68C8" width="300" height="180"/>
+		<rect x="733" y="1108" fill="#AB47BC" width="300" height="180"/>
+		<rect x="733" y="1292" fill="#9C27B0" width="300" height="180"/>
+		<rect x="733" y="1476" fill="#8E24AA" width="300" height="180"/>
+		<rect x="733" y="1660" fill="#7B1FA2" width="300" height="180"/>
+		<rect x="733" y="1844" fill="#6A1B9A" width="300" height="180"/>
+		<rect x="733" y="2028" fill="#4A148C" width="300" height="180"/>
+		<rect x="733" y="2395.88" fill="#EA80FC" width="300" height="180"/>
+		<rect x="733" y="2579.88" fill="#E040FB" width="300" height="180"/>
+		<rect x="733" y="2763.88" fill="#D500F9" width="300" height="180"/>
+		<rect x="733" y="2947.88" fill="#AA00FF" width="300" height="180"/>
+		<rect x="1037" y="372" fill="#EDE7F6" width="300" height="180"/>
+		<rect x="1037" y="556" fill="#D1C4E9" width="300" height="180"/>
+		<rect x="1037" y="740" fill="#B39DDB" width="300" height="180"/>
+		<rect x="1037" y="924" fill="#9575CD" width="300" height="180"/>
+		<rect x="1037" y="1108" fill="#7E57C2" width="300" height="180"/>
+		<rect x="1037" y="1292" fill="#673AB7" width="300" height="180"/>
+		<rect x="1037" y="1476" fill="#5E35B1" width="300" height="180"/>
+		<rect x="1037" y="1660" fill="#512DA8" width="300" height="180"/>
+		<rect x="1037" y="1844" fill="#4527A0" width="300" height="180"/>
+		<rect x="1037" y="2028" fill="#311B92" width="300" height="180"/>
+		<rect x="1037" y="2395.88" fill="#B388FF" width="300" height="180"/>
+		<rect x="1037" y="2579.88" fill="#7C4DFF" width="300" height="180"/>
+		<rect x="1037" y="2763.88" fill="#651FFF" width="300" height="180"/>
+		<rect x="1037" y="2947.88" fill="#6200EA" width="300" height="180"/>
+		<rect x="1341" y="372" fill="#E8EAF6" width="300" height="180"/>
+		<rect x="1341" y="556" fill="#C5CAE9" width="300" height="180"/>
+		<rect x="1341" y="740" fill="#9FA8DA" width="300" height="180"/>
+		<rect x="1341" y="924" fill="#7986CB" width="300" height="180"/>
+		<rect x="1341" y="1108" fill="#5C6BC0" width="300" height="180"/>
+		<rect x="1341" y="1292" fill="#3F51B5" width="300" height="180"/>
+		<rect x="1341" y="1476" fill="#3949AB" width="300" height="180"/>
+		<rect x="1341" y="1660" fill="#303F9F" width="300" height="180"/>
+		<rect x="1341" y="1844" fill="#283593" width="300" height="180"/>
+		<rect x="1341" y="2028" fill="#1A237E" width="300" height="180"/>
+		<rect x="1341" y="2395.88" fill="#8C9EFF" width="300" height="180"/>
+		<rect x="1341" y="2579.88" fill="#536DFE" width="300" height="180"/>
+		<rect x="1341" y="2763.88" fill="#3D5AFE" width="300" height="180"/>
+		<rect x="1341" y="2947.88" fill="#304FFE" width="300" height="180"/>
+		<rect x="1645" y="372" fill="#E3F2FD" width="300" height="180"/>
+		<rect x="1645" y="556" fill="#BBDEFB" width="300" height="180"/>
+		<rect x="1645" y="740" fill="#90CAF9" width="300" height="180"/>
+		<rect x="1645" y="924" fill="#64B5F6" width="300" height="180"/>
+		<rect x="1645" y="1108" fill="#42A5F5" width="300" height="180"/>
+		<rect x="1645" y="1292" fill="#2196F3" width="300" height="180"/>
+		<rect x="1645" y="1476" fill="#1E88E5" width="300" height="180"/>
+		<rect x="1645" y="1660" fill="#1976D2" width="300" height="180"/>
+		<rect x="1645" y="1844" fill="#1565C0" width="300" height="180"/>
+		<rect x="1645" y="2028" fill="#0D47A1" width="300" height="180"/>
+		<rect x="1645" y="2395.88" fill="#82B1FF" width="300" height="180"/>
+		<rect x="1645" y="2579.88" fill="#448AFF" width="300" height="180"/>
+		<rect x="1645" y="2763.88" fill="#2979FF" width="300" height="180"/>
+		<rect x="1645" y="2947.88" fill="#2962FF" width="300" height="180"/>
+		<rect x="1949" y="372" fill="#E1F5FE" width="300" height="180"/>
+		<rect x="1949" y="556" fill="#B3E5FC" width="300" height="180"/>
+		<rect x="1949" y="740" fill="#81D4FA" width="300" height="180"/>
+		<rect x="1949" y="924" fill="#4FC3F7" width="300" height="180"/>
+		<rect x="1949" y="1108" fill="#29B6F6" width="300" height="180"/>
+		<rect x="1949" y="1292" fill="#03A9F4" width="300" height="180"/>
+		<rect x="1949" y="1476" fill="#039BE5" width="300" height="180"/>
+		<rect x="1949" y="1660" fill="#0288D1" width="300" height="180"/>
+		<rect x="1949" y="1844" fill="#0277BD" width="300" height="180"/>
+		<rect x="1949" y="2028" fill="#01579B" width="300" height="180"/>
+		<rect x="1949" y="2395.88" fill="#80D8FF" width="300" height="180"/>
+		<rect x="1949" y="2579.88" fill="#40C4FF" width="300" height="180"/>
+		<rect x="1949" y="2763.88" fill="#00B0FF" width="300" height="180"/>
+		<rect x="1949" y="2947.88" fill="#0091EA" width="300" height="180"/>
+		<rect x="2253" y="372" fill="#E0F7FA" width="300" height="180"/>
+		<rect x="2253" y="556" fill="#B2EBF2" width="300" height="180"/>
+		<rect x="2253" y="740" fill="#80DEEA" width="300" height="180"/>
+		<rect x="2253" y="924" fill="#4DD0E1" width="300" height="180"/>
+		<rect x="2253" y="1108" fill="#26C6DA" width="300" height="180"/>
+		<rect x="2253" y="1292" fill="#00BCD4" width="300" height="180"/>
+		<rect x="2253" y="1476" fill="#00ACC1" width="300" height="180"/>
+		<rect x="2253" y="1660" fill="#0097A7" width="300" height="180"/>
+		<rect x="2253" y="1844" fill="#00838F" width="300" height="180"/>
+		<rect x="2253" y="2028" fill="#006064" width="300" height="180"/>
+		<rect x="2253" y="2395.88" fill="#84FFFF" width="300" height="180"/>
+		<rect x="2253" y="2579.88" fill="#18FFFF" width="300" height="180"/>
+		<rect x="2253" y="2763.88" fill="#00E5FF" width="300" height="180"/>
+		<rect x="2253" y="2947.88" fill="#00B8D4" width="300" height="180"/>
+		<rect x="2557" y="372" fill="#E0F2F1" width="300" height="180"/>
+		<rect x="2557" y="556" fill="#B2DFDB" width="300" height="180"/>
+		<rect x="2557" y="740" fill="#80CBC4" width="300" height="180"/>
+		<rect x="2557" y="924" fill="#4DB6AC" width="300" height="180"/>
+		<rect x="2557" y="1108" fill="#26A69A" width="300" height="180"/>
+		<rect x="2557" y="1292" fill="#009688" width="300" height="180"/>
+		<rect x="2557" y="1476" fill="#00897B" width="300" height="180"/>
+		<rect x="2557" y="1660" fill="#00796B" width="300" height="180"/>
+		<rect x="2557" y="1844" fill="#00695C" width="300" height="180"/>
+		<rect x="2557" y="2028" fill="#004D40" width="300" height="180"/>
+		<rect x="2557" y="2395.88" fill="#A7FFEB" width="300" height="180"/>
+		<rect x="2557" y="2579.88" fill="#64FFDA" width="300" height="180"/>
+		<rect x="2557" y="2763.88" fill="#1DE9B6" width="300" height="180"/>
+		<rect x="2557" y="2947.88" fill="#00BFA5" width="300" height="180"/>
+		<rect x="2861" y="372" fill="#E8F5E9" width="300" height="180"/>
+		<rect x="2861" y="556" fill="#C8E6C9" width="300" height="180"/>
+		<rect x="2861" y="740" fill="#A5D6A7" width="300" height="180"/>
+		<rect x="2861" y="924" fill="#81C784" width="300" height="180"/>
+		<rect x="2861" y="1108" fill="#66BB6A" width="300" height="180"/>
+		<rect x="2861" y="1292" fill="#4CAF50" width="300" height="180"/>
+		<rect x="2861" y="1476" fill="#43A047" width="300" height="180"/>
+		<rect x="2861" y="1660" fill="#388E3C" width="300" height="180"/>
+		<rect x="2861" y="1844" fill="#2E7D32" width="300" height="180"/>
+		<rect x="2861" y="2028" fill="#1B5E20" width="300" height="180"/>
+		<rect x="2861" y="2395.88" fill="#B9F6CA" width="300" height="180"/>
+		<rect x="2861" y="2579.88" fill="#69F0AE" width="300" height="180"/>
+		<rect x="2861" y="2763.88" fill="#00E676" width="300" height="180"/>
+		<rect x="2861" y="2947.88" fill="#00C853" width="300" height="180"/>
+		<rect x="3165" y="372" fill="#F1F8E9" width="300" height="180"/>
+		<rect x="3165" y="556" fill="#DCEDC8" width="300" height="180"/>
+		<rect x="3165" y="740" fill="#C5E1A5" width="300" height="180"/>
+		<rect x="3165" y="924" fill="#AED581" width="300" height="180"/>
+		<rect x="3165" y="1108" fill="#9CCC65" width="300" height="180"/>
+		<rect x="3165" y="1292" fill="#8BC34A" width="300" height="180"/>
+		<rect x="3165" y="1476" fill="#7CB342" width="300" height="180"/>
+		<rect x="3165" y="1660" fill="#689F38" width="300" height="180"/>
+		<rect x="3165" y="1844" fill="#558B2F" width="300" height="180"/>
+		<rect x="3165" y="2028" fill="#33691E" width="300" height="180"/>
+		<rect x="3165" y="2395.88" fill="#CCFF90" width="300" height="180"/>
+		<rect x="3165" y="2579.88" fill="#B2FF59" width="300" height="180"/>
+		<rect x="3165" y="2763.88" fill="#76FF03" width="300" height="180"/>
+		<rect x="3165" y="2947.88" fill="#64DD17" width="300" height="180"/>
+		<rect x="3469" y="372" fill="#F9FBE7" width="300" height="180"/>
+		<rect x="3469" y="556" fill="#F0F4C3" width="300" height="180"/>
+		<rect x="3469" y="740" fill="#E6EE9C" width="300" height="180"/>
+		<rect x="3469" y="924" fill="#DCE775" width="300" height="180"/>
+		<rect x="3469" y="1108" fill="#D4E157" width="300" height="180"/>
+		<rect x="3469" y="1292" fill="#CDDC39" width="300" height="180"/>
+		<rect x="3469" y="1476" fill="#C0CA33" width="300" height="180"/>
+		<rect x="3469" y="1660" fill="#AFB42B" width="300" height="180"/>
+		<rect x="3469" y="1844" fill="#9E9D24" width="300" height="180"/>
+		<rect x="3469" y="2028" fill="#827717" width="300" height="180"/>
+		<rect x="3469" y="2395.88" fill="#F4FF81" width="300" height="180"/>
+		<rect x="3469" y="2579.88" fill="#EEFF41" width="300" height="180"/>
+		<rect x="3469" y="2763.88" fill="#C6FF00" width="300" height="180"/>
+		<rect x="3469" y="2947.88" fill="#AEEA00" width="300" height="180"/>
+		<rect x="3773" y="372" fill="#FFFDE7" width="300" height="180"/>
+		<rect x="3773" y="556" fill="#FFF9C4" width="300" height="180"/>
+		<rect x="3773" y="740" fill="#FFF59D" width="300" height="180"/>
+		<rect x="3773" y="924" fill="#FFF176" width="300" height="180"/>
+		<rect x="3773" y="1108" fill="#FFEE58" width="300" height="180"/>
+		<rect x="3773" y="1292" fill="#FFEB3B" width="300" height="180"/>
+		<rect x="3773" y="1476" fill="#FDD835" width="300" height="180"/>
+		<rect x="3773" y="1660" fill="#FBC02D" width="300" height="180"/>
+		<rect x="3773" y="1844" fill="#F9A825" width="300" height="180"/>
+		<rect x="3773" y="2028" fill="#F57F17" width="300" height="180"/>
+		<rect x="3773" y="2395.88" fill="#FFFF8D" width="300" height="180"/>
+		<rect x="3773" y="2579.88" fill="#FFFF00" width="300" height="180"/>
+		<rect x="3773" y="2763.88" fill="#FFEA00" width="300" height="180"/>
+		<rect x="3773" y="2947.88" fill="#FFD600" width="300" height="180"/>
+		<rect x="4077" y="372" fill="#FFF8E1" width="300" height="180"/>
+		<rect x="4077" y="556" fill="#FFECB3" width="300" height="180"/>
+		<rect x="4077" y="740" fill="#FFE082" width="300" height="180"/>
+		<rect x="4077" y="924" fill="#FFD54F" width="300" height="180"/>
+		<rect x="4077" y="1108" fill="#FFCA28" width="300" height="180"/>
+		<rect x="4077" y="1292" fill="#FFC107" width="300" height="180"/>
+		<rect x="4077" y="1476" fill="#FFB300" width="300" height="180"/>
+		<rect x="4077" y="1660" fill="#FFA000" width="300" height="180"/>
+		<rect x="4077" y="1844" fill="#FF8F00" width="300" height="180"/>
+		<rect x="4077" y="2028" fill="#FF6F00" width="300" height="180"/>
+		<rect x="4077" y="2395.88" fill="#FFE57F" width="300" height="180"/>
+		<rect x="4077" y="2579.88" fill="#FFD740" width="300" height="180"/>
+		<rect x="4077" y="2763.88" fill="#FFC400" width="300" height="180"/>
+		<rect x="4077" y="2947.88" fill="#FFAB00" width="300" height="180"/>
+		<rect x="4381" y="372" fill="#FFF3E0" width="300" height="180"/>
+		<rect x="4381" y="556" fill="#FFE0B2" width="300" height="180"/>
+		<rect x="4381" y="740" fill="#FFCC80" width="300" height="180"/>
+		<rect x="4381" y="924" fill="#FFB74D" width="300" height="180"/>
+		<rect x="4381" y="1108" fill="#FFA726" width="300" height="180"/>
+		<rect x="4381" y="1292" fill="#FF9800" width="300" height="180"/>
+		<rect x="4381" y="1476" fill="#FB8C00" width="300" height="180"/>
+		<rect x="4381" y="1660" fill="#F57C00" width="300" height="180"/>
+		<rect x="4381" y="1844" fill="#EF6C00" width="300" height="180"/>
+		<rect x="4381" y="2028" fill="#E65100" width="300" height="180"/>
+		<rect x="4381" y="2395.88" fill="#FFD180" width="300" height="180"/>
+		<rect x="4381" y="2579.88" fill="#FFAB40" width="300" height="180"/>
+		<rect x="4381" y="2763.88" fill="#FF9100" width="300" height="180"/>
+		<rect x="4381" y="2947.88" fill="#FF6D00" width="300" height="180"/>
+		<rect x="4685" y="372" fill="#FBE9E7" width="300" height="180"/>
+		<rect x="4685" y="556" fill="#FFCCBC" width="300" height="180"/>
+		<rect x="4685" y="740" fill="#FFAB91" width="300" height="180"/>
+		<rect x="4685" y="924" fill="#FF8A65" width="300" height="180"/>
+		<rect x="4685" y="1108" fill="#FF7043" width="300" height="180"/>
+		<rect x="4685" y="1292" fill="#FF5722" width="300" height="180"/>
+		<rect x="4685" y="1476" fill="#F4511E" width="300" height="180"/>
+		<rect x="4685" y="1660" fill="#E64A19" width="300" height="180"/>
+		<rect x="4685" y="1844" fill="#D84315" width="300" height="180"/>
+		<rect x="4685" y="2028" fill="#BF360C" width="300" height="180"/>
+		<rect x="4685" y="2395.88" fill="#FF9E80" width="300" height="180"/>
+		<rect x="4685" y="2579.88" fill="#FF6E40" width="300" height="180"/>
+		<rect x="4685" y="2763.88" fill="#FF3D00" width="300" height="180"/>
+		<rect x="4685" y="2947.88" fill="#DD2C00" width="300" height="180"/>
+		<rect x="4989" y="372" fill="#EFEBE9" width="300" height="180"/>
+		<rect x="4989" y="556" fill="#D7CCC8" width="300" height="180"/>
+		<rect x="4989" y="740" fill="#BCAAA4" width="300" height="180"/>
+		<rect x="4989" y="924" fill="#A1887F" width="300" height="180"/>
+		<rect x="4989" y="1108" fill="#8D6E63" width="300" height="180"/>
+		<rect x="4989" y="1292" fill="#795548" width="300" height="180"/>
+		<rect x="4989" y="1476" fill="#6D4C41" width="300" height="180"/>
+		<rect x="4989" y="1660" fill="#5D4037" width="300" height="180"/>
+		<rect x="4989" y="1844" fill="#4E342E" width="300" height="180"/>
+		<rect x="4989" y="2028" fill="#3E2723" width="300" height="180"/>
+		<rect x="5293" y="372" fill="#FAFAFA" width="300" height="180"/>
+		<rect x="5293" y="556" fill="#F5F5F5" width="300" height="180"/>
+		<rect x="5293" y="740" fill="#EEEEEE" width="300" height="180"/>
+		<rect x="5293" y="924" fill="#E0E0E0" width="300" height="180"/>
+		<rect x="5293" y="1108" fill="#BDBDBD" width="300" height="180"/>
+		<rect x="5293" y="1292" fill="#9E9E9E" width="300" height="180"/>
+		<rect x="5293" y="1476" fill="#757575" width="300" height="180"/>
+		<rect x="5293" y="1660" fill="#616161" width="300" height="180"/>
+		<rect x="5293" y="1844" fill="#424242" width="300" height="180"/>
+		<rect x="5293" y="2028" fill="#212121" width="300" height="180"/>
+		<rect x="5597" y="372" fill="#ECEFF1" width="300" height="180"/>
+		<rect x="5597" y="556" fill="#CFD8DC" width="300" height="180"/>
+		<rect x="5597" y="740" fill="#B0BEC5" width="300" height="180"/>
+		<rect x="5597" y="924" fill="#90A4AE" width="300" height="180"/>
+		<rect x="5597" y="1108" fill="#78909C" width="300" height="180"/>
+		<rect x="5597" y="1292" fill="#607D8B" width="300" height="180"/>
+		<rect x="5597" y="1476" fill="#546E7A" width="300" height="180"/>
+		<rect x="5597" y="1660" fill="#455A64" width="300" height="180"/>
+		<rect x="5597" y="1844" fill="#37474F" width="300" height="180"/>
+		<rect x="5597" y="2028" fill="#263238" width="300" height="180"/>
+		<rect x="5901" y="372" fill="#FFFFFF" width="300" height="180"/>
+		<rect x="5901" y="556" width="300" height="180"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 156 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 235, 238)</text>
+		<text transform="matrix(1 0 0 1 156 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 205, 210)</text>
+		<text transform="matrix(1 0 0 1 156 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(239, 154, 154)</text>
+		<text transform="matrix(1 0 0 1 156 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(229, 115, 115)</text>
+		<text transform="matrix(1 0 0 1 156 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(239, 83, 80)</text>
+		<text transform="matrix(1 0 0 1 156 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(244, 67, 54)</text>
+		<text transform="matrix(1 0 0 1 156 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(229, 57, 53)</text>
+		<text transform="matrix(1 0 0 1 156 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(211, 47, 47)</text>
+		<text transform="matrix(1 0 0 1 156 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(198, 40, 40)</text>
+		<text transform="matrix(1 0 0 1 156 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(183, 28, 28)</text>
+		<text transform="matrix(1 0 0 1 156 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 138, 128)</text>
+		<text transform="matrix(1 0 0 1 156 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 82, 82)</text>
+		<text transform="matrix(1 0 0 1 156 2854.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 23, 68)</text>
+		<text transform="matrix(1 0 0 1 156 3038.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(213, 0, 0)</text>
+		<text transform="matrix(1 0 0 1 460 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(252, 228, 236)</text>
+		<text transform="matrix(1 0 0 1 460 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(248, 187, 208)</text>
+		<text transform="matrix(1 0 0 1 460 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(244, 143, 177)</text>
+		<text transform="matrix(1 0 0 1 460 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(240, 98, 146)</text>
+		<text transform="matrix(1 0 0 1 460 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(236, 64, 122)</text>
+		<text transform="matrix(1 0 0 1 460 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(233, 30, 99)</text>
+		<text transform="matrix(1 0 0 1 460 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(216, 27, 96)</text>
+		<text transform="matrix(1 0 0 1 460 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(194, 24, 91)</text>
+		<text transform="matrix(1 0 0 1 460 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(173, 20, 87)</text>
+		<text transform="matrix(1 0 0 1 460 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(136, 14, 79)</text>
+		<text transform="matrix(1 0 0 1 460 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 128, 171)</text>
+		<text transform="matrix(1 0 0 1 460 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 64, 129)</text>
+		<text transform="matrix(1 0 0 1 460 2854.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(245, 0, 87)</text>
+		<text transform="matrix(1 0 0 1 460 3038.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(197, 17, 98)</text>
+		<text transform="matrix(1 0 0 1 764 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(243, 229, 245)</text>
+		<text transform="matrix(1 0 0 1 764 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(225, 190, 231)</text>
+		<text transform="matrix(1 0 0 1 764 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(206, 147, 216)</text>
+		<text transform="matrix(1 0 0 1 764 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(186, 104, 200)</text>
+		<text transform="matrix(1 0 0 1 764 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(171, 71, 188)</text>
+		<text transform="matrix(1 0 0 1 764 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(156, 39, 176)</text>
+		<text transform="matrix(1 0 0 1 764 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(142, 36, 170)</text>
+		<text transform="matrix(1 0 0 1 764 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(123, 31, 162)</text>
+		<text transform="matrix(1 0 0 1 764 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(106, 27, 154)</text>
+		<text transform="matrix(1 0 0 1 764 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(74, 20, 140)</text>
+		<text transform="matrix(1 0 0 1 764 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(234, 128, 252)</text>
+		<text transform="matrix(1 0 0 1 764 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(224, 64, 251)</text>
+		<text transform="matrix(1 0 0 1 764 2854.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(213, 0, 249)</text>
+		<text transform="matrix(1 0 0 1 764 3038.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(170, 0, 255)</text>
+		<text transform="matrix(1 0 0 1 1068 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(237, 231, 246)</text>
+		<text transform="matrix(1 0 0 1 1068 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(209, 196, 233)</text>
+		<text transform="matrix(1 0 0 1 1068 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(179, 157, 219)</text>
+		<text transform="matrix(1 0 0 1 1068 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(149, 117, 205)</text>
+		<text transform="matrix(1 0 0 1 1068 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(126, 87, 194)</text>
+		<text transform="matrix(1 0 0 1 1068 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(103, 58, 183)</text>
+		<text transform="matrix(1 0 0 1 1068 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(94, 53, 177)</text>
+		<text transform="matrix(1 0 0 1 1068 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(81, 45, 168)</text>
+		<text transform="matrix(1 0 0 1 1068 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(69, 39, 160)</text>
+		<text transform="matrix(1 0 0 1 1068 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(49, 27, 146)</text>
+		<text transform="matrix(1 0 0 1 1068 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(179, 136, 255)</text>
+		<text transform="matrix(1 0 0 1 1068 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(124, 77, 255)</text>
+		<text transform="matrix(1 0 0 1 1068 2854.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(101, 31, 255)</text>
+		<text transform="matrix(1 0 0 1 1068 3038.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(98, 0, 234)</text>
+		<text transform="matrix(1 0 0 1 1372 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(232, 234, 246)</text>
+		<text transform="matrix(1 0 0 1 1372 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(197, 202, 233)</text>
+		<text transform="matrix(1 0 0 1 1372 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(159, 168, 218)</text>
+		<text transform="matrix(1 0 0 1 1372 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(121, 134, 203)</text>
+		<text transform="matrix(1 0 0 1 1372 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(92, 107, 192)</text>
+		<text transform="matrix(1 0 0 1 1372 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(63, 81, 181)</text>
+		<text transform="matrix(1 0 0 1 1372 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(57, 73, 171)</text>
+		<text transform="matrix(1 0 0 1 1372 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(48, 63, 159)</text>
+		<text transform="matrix(1 0 0 1 1372 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(40, 53, 147)</text>
+		<text transform="matrix(1 0 0 1 1372 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(26, 35, 126)</text>
+		<text transform="matrix(1 0 0 1 1372 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(140, 158, 255)</text>
+		<text transform="matrix(1 0 0 1 1372 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(83, 109, 254)</text>
+		<text transform="matrix(1 0 0 1 1372 2854.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(61, 90, 254)</text>
+		<text transform="matrix(1 0 0 1 1372 3038.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(48, 79, 254)</text>
+		<text transform="matrix(1 0 0 1 1676 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(227, 242, 253)</text>
+		<text transform="matrix(1 0 0 1 1676 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(187, 222, 251)</text>
+		<text transform="matrix(1 0 0 1 1676 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(144, 202, 249)</text>
+		<text transform="matrix(1 0 0 1 1676 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(100, 181, 246)</text>
+		<text transform="matrix(1 0 0 1 1676 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(66, 165, 245)</text>
+		<text transform="matrix(1 0 0 1 1676 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(33, 150, 243)</text>
+		<text transform="matrix(1 0 0 1 1676 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(30, 136, 229)</text>
+		<text transform="matrix(1 0 0 1 1676 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(25, 118, 210)</text>
+		<text transform="matrix(1 0 0 1 1676 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(21, 101, 192)</text>
+		<text transform="matrix(1 0 0 1 1676 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(13, 71, 161)</text>
+		<text transform="matrix(1 0 0 1 1676 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(130, 177, 255)</text>
+		<text transform="matrix(1 0 0 1 1676 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(68, 138, 255)</text>
+		<text transform="matrix(1 0 0 1 1676 2854.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(41, 121, 255)</text>
+		<text transform="matrix(1 0 0 1 1676 3038.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(41, 98, 255)</text>
+		<text transform="matrix(1 0 0 1 1980 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(225, 245, 254)</text>
+		<text transform="matrix(1 0 0 1 1980 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(179, 229, 252)</text>
+		<text transform="matrix(1 0 0 1 1980 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(129, 212, 250)</text>
+		<text transform="matrix(1 0 0 1 1980 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(79, 195, 247)</text>
+		<text transform="matrix(1 0 0 1 1980 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(41, 182, 246)</text>
+		<text transform="matrix(1 0 0 1 1980 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(3, 169, 244)</text>
+		<text transform="matrix(1 0 0 1 1980 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(3, 155, 229)</text>
+		<text transform="matrix(1 0 0 1 1980 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(2, 136, 209)</text>
+		<text transform="matrix(1 0 0 1 1980 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(2, 119, 189)</text>
+		<text transform="matrix(1 0 0 1 1980 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(1, 87, 155)</text>
+		<text transform="matrix(1 0 0 1 1980 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(128, 216, 255)</text>
+		<text transform="matrix(1 0 0 1 1980 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(64, 196, 255)</text>
+		<text transform="matrix(1 0 0 1 1980 2854.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 176, 255)</text>
+		<text transform="matrix(1 0 0 1 1980 3038.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 145, 234)</text>
+		<text transform="matrix(1 0 0 1 2284 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(224, 247, 250)</text>
+		<text transform="matrix(1 0 0 1 2284 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(178, 235, 242)</text>
+		<text transform="matrix(1 0 0 1 2284 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(128, 222, 234)</text>
+		<text transform="matrix(1 0 0 1 2284 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(77, 208, 225)</text>
+		<text transform="matrix(1 0 0 1 2284 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(38, 198, 218)</text>
+		<text transform="matrix(1 0 0 1 2284 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 188, 212)</text>
+		<text transform="matrix(1 0 0 1 2284 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 172, 193)</text>
+		<text transform="matrix(1 0 0 1 2284 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 151, 167)</text>
+		<text transform="matrix(1 0 0 1 2284 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 131, 143)</text>
+		<text transform="matrix(1 0 0 1 2284 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 96, 100)</text>
+		<text transform="matrix(1 0 0 1 2284 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(132, 255, 255)</text>
+		<text transform="matrix(1 0 0 1 2284 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(24, 255, 255)</text>
+		<text transform="matrix(1 0 0 1 2284 2854.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 229, 255)</text>
+		<text transform="matrix(1 0 0 1 2284 3038.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 184, 212)</text>
+		<text transform="matrix(1 0 0 1 2588 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(224, 242, 241)</text>
+		<text transform="matrix(1 0 0 1 2588 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(178, 223, 219)</text>
+		<text transform="matrix(1 0 0 1 2588 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(128, 203, 196)</text>
+		<text transform="matrix(1 0 0 1 2588 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(77, 182, 172)</text>
+		<text transform="matrix(1 0 0 1 2588 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(38, 166, 154)</text>
+		<text transform="matrix(1 0 0 1 2588 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 150, 136)</text>
+		<text transform="matrix(1 0 0 1 2588 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 137, 123)</text>
+		<text transform="matrix(1 0 0 1 2588 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 121, 107)</text>
+		<text transform="matrix(1 0 0 1 2588 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 105, 92)</text>
+		<text transform="matrix(1 0 0 1 2588 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 77, 64)</text>
+		<text transform="matrix(1 0 0 1 2588 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(167, 255, 235)</text>
+		<text transform="matrix(1 0 0 1 2588 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(100, 255, 218)</text>
+		<text transform="matrix(1 0 0 1 2588 2854.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(29, 233, 182)</text>
+		<text transform="matrix(1 0 0 1 2588 3038.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 191, 165)</text>
+		<text transform="matrix(1 0 0 1 2892 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(232, 245, 233)</text>
+		<text transform="matrix(1 0 0 1 2892 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(200, 230, 201)</text>
+		<text transform="matrix(1 0 0 1 2892 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(165, 214, 167)</text>
+		<text transform="matrix(1 0 0 1 2892 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(129, 199, 132)</text>
+		<text transform="matrix(1 0 0 1 2892 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(102, 187, 106)</text>
+		<text transform="matrix(1 0 0 1 2892 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(76, 175, 80)</text>
+		<text transform="matrix(1 0 0 1 2892 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(67, 160, 71)</text>
+		<text transform="matrix(1 0 0 1 2892 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(56, 142, 60)</text>
+		<text transform="matrix(1 0 0 1 2892 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(46, 125, 50)</text>
+		<text transform="matrix(1 0 0 1 2892 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(27, 94, 32)</text>
+		<text transform="matrix(1 0 0 1 2892 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(185, 246, 202)</text>
+		<text transform="matrix(1 0 0 1 2892 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(105, 240, 174)</text>
+		<text transform="matrix(1 0 0 1 2892 2854.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 230, 118)</text>
+		<text transform="matrix(1 0 0 1 2892 3038.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 200, 83)</text>
+		<text transform="matrix(1 0 0 1 3196 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(241, 248, 233)</text>
+		<text transform="matrix(1 0 0 1 3196 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(220, 237, 200)</text>
+		<text transform="matrix(1 0 0 1 3196 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(197, 225, 165)</text>
+		<text transform="matrix(1 0 0 1 3196 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(174, 213, 129)</text>
+		<text transform="matrix(1 0 0 1 3196 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(156, 204, 101)</text>
+		<text transform="matrix(1 0 0 1 3196 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(139, 195, 74)</text>
+		<text transform="matrix(1 0 0 1 3196 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(124, 179, 66)</text>
+		<text transform="matrix(1 0 0 1 3196 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(104, 159, 56)</text>
+		<text transform="matrix(1 0 0 1 3196 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(85, 139, 47)</text>
+		<text transform="matrix(1 0 0 1 3196 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(51, 105, 30)</text>
+		<text transform="matrix(1 0 0 1 3196 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(204, 255, 144)</text>
+		<text transform="matrix(1 0 0 1 3196 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(178, 255, 89)</text>
+		<text transform="matrix(1 0 0 1 3196 2854.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(118, 255, 3)</text>
+		<text transform="matrix(1 0 0 1 3196 3038.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(100, 221, 23)</text>
+		<text transform="matrix(1 0 0 1 3500 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(249, 251, 231)</text>
+		<text transform="matrix(1 0 0 1 3500 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(240, 244, 195)</text>
+		<text transform="matrix(1 0 0 1 3500 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(230, 238, 156)</text>
+		<text transform="matrix(1 0 0 1 3500 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(220, 231, 117)</text>
+		<text transform="matrix(1 0 0 1 3500 1199.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(212, 225, 87)</text>
+		<text transform="matrix(1 0 0 1 3500 1383.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(205, 220, 57)</text>
+		<text transform="matrix(1 0 0 1 3500 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(192, 202, 51)</text>
+		<text transform="matrix(1 0 0 1 3500 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(175, 180, 43)</text>
+		<text transform="matrix(1 0 0 1 3500 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(158, 157, 36)</text>
+		<text transform="matrix(1 0 0 1 3500 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(130, 119, 23)</text>
+		<text transform="matrix(1 0 0 1 3500 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(244, 255, 129)</text>
+		<text transform="matrix(1 0 0 1 3500 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(238, 255, 65)</text>
+		<text transform="matrix(1 0 0 1 3500 2854.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(198, 255, 0)</text>
+		<text transform="matrix(1 0 0 1 3500 3038.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(174, 234, 0)</text>
+		<text transform="matrix(1 0 0 1 3804 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 253, 231)</text>
+		<text transform="matrix(1 0 0 1 3804 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 249, 196)</text>
+		<text transform="matrix(1 0 0 1 3804 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 245, 157)</text>
+		<text transform="matrix(1 0 0 1 3804 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 241, 118)</text>
+		<text transform="matrix(1 0 0 1 3804 1199.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 238, 88)</text>
+		<text transform="matrix(1 0 0 1 3804 1383.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 235, 59)</text>
+		<text transform="matrix(1 0 0 1 3804 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(253, 216, 53)</text>
+		<text transform="matrix(1 0 0 1 3804 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(251, 192, 45)</text>
+		<text transform="matrix(1 0 0 1 3804 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(249, 168, 37)</text>
+		<text transform="matrix(1 0 0 1 3804 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(245, 127, 23)</text>
+		<text transform="matrix(1 0 0 1 3804 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 255, 141)</text>
+		<text transform="matrix(1 0 0 1 3804 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 255, 0)</text>
+		<text transform="matrix(1 0 0 1 3804 2854.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 234, 0)</text>
+		<text transform="matrix(1 0 0 1 3804 3038.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 214, 0)</text>
+		<text transform="matrix(1 0 0 1 4108 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 248, 225)</text>
+		<text transform="matrix(1 0 0 1 4108 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 236, 179)</text>
+		<text transform="matrix(1 0 0 1 4108 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 224, 130)</text>
+		<text transform="matrix(1 0 0 1 4108 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 213, 79)</text>
+		<text transform="matrix(1 0 0 1 4108 1199.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 202, 40)</text>
+		<text transform="matrix(1 0 0 1 4108 1383.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 193, 7)</text>
+		<text transform="matrix(1 0 0 1 4108 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 179, 0)</text>
+		<text transform="matrix(1 0 0 1 4108 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 160, 0)</text>
+		<text transform="matrix(1 0 0 1 4108 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 143, 0)</text>
+		<text transform="matrix(1 0 0 1 4108 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 111, 0)</text>
+		<text transform="matrix(1 0 0 1 4108 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 229, 127)</text>
+		<text transform="matrix(1 0 0 1 4108 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 215, 64)</text>
+		<text transform="matrix(1 0 0 1 4108 2854.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 196, 0)</text>
+		<text transform="matrix(1 0 0 1 4108 3038.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 171, 0)</text>
+		<text transform="matrix(1 0 0 1 4412 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 243, 224)</text>
+		<text transform="matrix(1 0 0 1 4412 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 224, 178)</text>
+		<text transform="matrix(1 0 0 1 4412 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 204, 128)</text>
+		<text transform="matrix(1 0 0 1 4412 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 183, 77)</text>
+		<text transform="matrix(1 0 0 1 4412 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 167, 38)</text>
+		<text transform="matrix(1 0 0 1 4412 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 152, 0)</text>
+		<text transform="matrix(1 0 0 1 4412 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(251, 140, 0)</text>
+		<text transform="matrix(1 0 0 1 4412 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(245, 124, 0)</text>
+		<text transform="matrix(1 0 0 1 4412 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(239, 108, 0)</text>
+		<text transform="matrix(1 0 0 1 4412 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(230, 81, 0)</text>
+		<text transform="matrix(1 0 0 1 4412 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 209, 128)</text>
+		<text transform="matrix(1 0 0 1 4412 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 171, 64)</text>
+		<text transform="matrix(1 0 0 1 4412 2854.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 145, 0)</text>
+		<text transform="matrix(1 0 0 1 4412 3038.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 109, 0)</text>
+		<text transform="matrix(1 0 0 1 4716 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(251, 233, 231)</text>
+		<text transform="matrix(1 0 0 1 4716 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 204, 188)</text>
+		<text transform="matrix(1 0 0 1 4716 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 171, 145)</text>
+		<text transform="matrix(1 0 0 1 4716 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 138, 101)</text>
+		<text transform="matrix(1 0 0 1 4716 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 112, 67)</text>
+		<text transform="matrix(1 0 0 1 4716 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 87, 34)</text>
+		<text transform="matrix(1 0 0 1 4716 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(244, 81, 30)</text>
+		<text transform="matrix(1 0 0 1 4716 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(230, 74, 25)</text>
+		<text transform="matrix(1 0 0 1 4716 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(216, 67, 21)</text>
+		<text transform="matrix(1 0 0 1 4716 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(191, 54, 12)</text>
+		<text transform="matrix(1 0 0 1 4716 2486.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 158, 128)</text>
+		<text transform="matrix(1 0 0 1 4716 2670.8799)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 110, 64)</text>
+		<text transform="matrix(1 0 0 1 4716 2854.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 61, 0)</text>
+		<text transform="matrix(1 0 0 1 4716 3038.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(221, 44, 0)</text>
+		<text transform="matrix(1 0 0 1 5020 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(239, 235, 233)</text>
+		<text transform="matrix(1 0 0 1 5020 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(215, 204, 200)</text>
+		<text transform="matrix(1 0 0 1 5020 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(188, 170, 164)</text>
+		<text transform="matrix(1 0 0 1 5020 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(161, 136, 127)</text>
+		<text transform="matrix(1 0 0 1 5020 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(141, 110, 99)</text>
+		<text transform="matrix(1 0 0 1 5020 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(121, 85, 72)</text>
+		<text transform="matrix(1 0 0 1 5020 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(109, 76, 65)</text>
+		<text transform="matrix(1 0 0 1 5020 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(93, 64, 55)</text>
+		<text transform="matrix(1 0 0 1 5020 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(78, 52, 46)</text>
+		<text transform="matrix(1 0 0 1 5020 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(62, 39, 35)</text>
+		<text transform="matrix(1 0 0 1 5324 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(250, 250, 250)</text>
+		<text transform="matrix(1 0 0 1 5324 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(245, 245, 245)</text>
+		<text transform="matrix(1 0 0 1 5324 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(238, 238, 238)</text>
+		<text transform="matrix(1 0 0 1 5324 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(224, 224, 224)</text>
+		<text transform="matrix(1 0 0 1 5324 1199.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(189, 189, 189)</text>
+		<text transform="matrix(1 0 0 1 5324 1383.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(158, 158, 158)</text>
+		<text transform="matrix(1 0 0 1 5324 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(117, 117, 117)</text>
+		<text transform="matrix(1 0 0 1 5324 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(97, 97, 97)</text>
+		<text transform="matrix(1 0 0 1 5324 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(66, 66, 66)</text>
+		<text transform="matrix(1 0 0 1 5324 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(33, 33, 33)</text>
+		<text transform="matrix(1 0 0 1 5628 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(236, 239, 241)</text>
+		<text transform="matrix(1 0 0 1 5628 647.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(207, 216, 220)</text>
+		<text transform="matrix(1 0 0 1 5628 831.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(176, 190, 197)</text>
+		<text transform="matrix(1 0 0 1 5628 1015.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(144, 164, 174)</text>
+		<text transform="matrix(1 0 0 1 5628 1199.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(120, 144, 156)</text>
+		<text transform="matrix(1 0 0 1 5628 1383.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(96, 125, 139)</text>
+		<text transform="matrix(1 0 0 1 5628 1567.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(84, 110, 122)</text>
+		<text transform="matrix(1 0 0 1 5628 1751.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(69, 90, 100)</text>
+		<text transform="matrix(1 0 0 1 5628 1935.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(55, 71, 79)</text>
+		<text transform="matrix(1 0 0 1 5628 2119.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(38, 50, 56)</text>
+		<text transform="matrix(1 0 0 1 5932 463.0566)" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(255, 255, 255)</text>
+		<text transform="matrix(1 0 0 1 5932 647.0566)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Regular'" font-size="18">rgb(0, 0, 0)</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 156 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffebee</text>
+		<text transform="matrix(1 0 0 1 156 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffcdd2</text>
+		<text transform="matrix(1 0 0 1 156 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ef9a9a</text>
+		<text transform="matrix(1 0 0 1 156 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e57373</text>
+		<text transform="matrix(1 0 0 1 156 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ef5350</text>
+		<text transform="matrix(1 0 0 1 156 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f44336</text>
+		<text transform="matrix(1 0 0 1 156 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e53935</text>
+		<text transform="matrix(1 0 0 1 156 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#d32f2f</text>
+		<text transform="matrix(1 0 0 1 156 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#c62828</text>
+		<text transform="matrix(1 0 0 1 156 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#b71c1c</text>
+		<text transform="matrix(1 0 0 1 156 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff8a80</text>
+		<text transform="matrix(1 0 0 1 156 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff5252</text>
+		<text transform="matrix(1 0 0 1 156 2816.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff1744</text>
+		<text transform="matrix(1 0 0 1 156 3000.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#d50000</text>
+		<text transform="matrix(1 0 0 1 460 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fce4ec</text>
+		<text transform="matrix(1 0 0 1 460 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f8bbd0</text>
+		<text transform="matrix(1 0 0 1 460 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f48fb1</text>
+		<text transform="matrix(1 0 0 1 460 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f06292</text>
+		<text transform="matrix(1 0 0 1 460 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ec407a</text>
+		<text transform="matrix(1 0 0 1 460 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e91e63</text>
+		<text transform="matrix(1 0 0 1 460 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#d81b60</text>
+		<text transform="matrix(1 0 0 1 460 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#c2185b</text>
+		<text transform="matrix(1 0 0 1 460 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ad1457</text>
+		<text transform="matrix(1 0 0 1 460 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#880e4f</text>
+		<text transform="matrix(1 0 0 1 460 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff80ab</text>
+		<text transform="matrix(1 0 0 1 460 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff4081</text>
+		<text transform="matrix(1 0 0 1 460 2816.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f50057</text>
+		<text transform="matrix(1 0 0 1 460 3000.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#c51162</text>
+		<text transform="matrix(1 0 0 1 764 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f3e5f5</text>
+		<text transform="matrix(1 0 0 1 764 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e1bee7</text>
+		<text transform="matrix(1 0 0 1 764 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ce93d8</text>
+		<text transform="matrix(1 0 0 1 764 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ba68c8</text>
+		<text transform="matrix(1 0 0 1 764 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ab47bc</text>
+		<text transform="matrix(1 0 0 1 764 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#9c27b0</text>
+		<text transform="matrix(1 0 0 1 764 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#8e24aa</text>
+		<text transform="matrix(1 0 0 1 764 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#7b1fa2</text>
+		<text transform="matrix(1 0 0 1 764 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#6a1b9a</text>
+		<text transform="matrix(1 0 0 1 764 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#4a148c</text>
+		<text transform="matrix(1 0 0 1 764 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ea80fc</text>
+		<text transform="matrix(1 0 0 1 764 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e040fb</text>
+		<text transform="matrix(1 0 0 1 764 2816.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#d500f9</text>
+		<text transform="matrix(1 0 0 1 764 3000.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#aa00ff</text>
+		<text transform="matrix(1 0 0 1 1068 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ede7f6</text>
+		<text transform="matrix(1 0 0 1 1068 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#d1c4e9</text>
+		<text transform="matrix(1 0 0 1 1068 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#b39ddb</text>
+		<text transform="matrix(1 0 0 1 1068 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#9575cd</text>
+		<text transform="matrix(1 0 0 1 1068 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#7e57c2</text>
+		<text transform="matrix(1 0 0 1 1068 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#673ab7</text>
+		<text transform="matrix(1 0 0 1 1068 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#5e35b1</text>
+		<text transform="matrix(1 0 0 1 1068 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#512da8</text>
+		<text transform="matrix(1 0 0 1 1068 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#4527a0</text>
+		<text transform="matrix(1 0 0 1 1068 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#311b92</text>
+		<text transform="matrix(1 0 0 1 1068 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#b388ff</text>
+		<text transform="matrix(1 0 0 1 1068 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#7c4dff</text>
+		<text transform="matrix(1 0 0 1 1068 2816.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#651fff</text>
+		<text transform="matrix(1 0 0 1 1068 3000.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#6200ea</text>
+		<text transform="matrix(1 0 0 1 1372 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e8eaf6</text>
+		<text transform="matrix(1 0 0 1 1372 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#c5cae9</text>
+		<text transform="matrix(1 0 0 1 1372 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#9fa8da</text>
+		<text transform="matrix(1 0 0 1 1372 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#7986cb</text>
+		<text transform="matrix(1 0 0 1 1372 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#5c6bc0</text>
+		<text transform="matrix(1 0 0 1 1372 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#3f51b5</text>
+		<text transform="matrix(1 0 0 1 1372 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#3949ab</text>
+		<text transform="matrix(1 0 0 1 1372 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#303f9f</text>
+		<text transform="matrix(1 0 0 1 1372 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#283593</text>
+		<text transform="matrix(1 0 0 1 1372 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#1a237e</text>
+		<text transform="matrix(1 0 0 1 1372 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#8c9eff</text>
+		<text transform="matrix(1 0 0 1 1372 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#536dfe</text>
+		<text transform="matrix(1 0 0 1 1372 2816.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#3d5afe</text>
+		<text transform="matrix(1 0 0 1 1372 3000.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#304ffe</text>
+		<text transform="matrix(1 0 0 1 1676 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e3f2fd</text>
+		<text transform="matrix(1 0 0 1 1676 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#bbdefb</text>
+		<text transform="matrix(1 0 0 1 1676 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#90caf9</text>
+		<text transform="matrix(1 0 0 1 1676 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#64b5f6</text>
+		<text transform="matrix(1 0 0 1 1676 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#42a5f5</text>
+		<text transform="matrix(1 0 0 1 1676 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#2196f3</text>
+		<text transform="matrix(1 0 0 1 1676 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#1e88e5</text>
+		<text transform="matrix(1 0 0 1 1676 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#1976d2</text>
+		<text transform="matrix(1 0 0 1 1676 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#1565c0</text>
+		<text transform="matrix(1 0 0 1 1676 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#0d47a1</text>
+		<text transform="matrix(1 0 0 1 1676 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#82b1ff</text>
+		<text transform="matrix(1 0 0 1 1676 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#448aff</text>
+		<text transform="matrix(1 0 0 1 1676 2816.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#2979ff</text>
+		<text transform="matrix(1 0 0 1 1676 3000.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#2962ff</text>
+		<text transform="matrix(1 0 0 1 1980 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e1f5fe</text>
+		<text transform="matrix(1 0 0 1 1980 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#b3e5fc</text>
+		<text transform="matrix(1 0 0 1 1980 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#81d4fa</text>
+		<text transform="matrix(1 0 0 1 1980 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#4fc3f7</text>
+		<text transform="matrix(1 0 0 1 1980 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#29b6f6</text>
+		<text transform="matrix(1 0 0 1 1980 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#03a9f4</text>
+		<text transform="matrix(1 0 0 1 1980 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#039be5</text>
+		<text transform="matrix(1 0 0 1 1980 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#0288d1</text>
+		<text transform="matrix(1 0 0 1 1980 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#0277bd</text>
+		<text transform="matrix(1 0 0 1 1980 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#01579b</text>
+		<text transform="matrix(1 0 0 1 1980 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#80d8ff</text>
+		<text transform="matrix(1 0 0 1 1980 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#40c4ff</text>
+		<text transform="matrix(1 0 0 1 1980 2816.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00b0ff</text>
+		<text transform="matrix(1 0 0 1 1980 3000.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#0091ea</text>
+		<text transform="matrix(1 0 0 1 2284 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e0f7fa</text>
+		<text transform="matrix(1 0 0 1 2284 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#b2ebf2</text>
+		<text transform="matrix(1 0 0 1 2284 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#80deea</text>
+		<text transform="matrix(1 0 0 1 2284 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#4dd0e1</text>
+		<text transform="matrix(1 0 0 1 2284 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#26c6da</text>
+		<text transform="matrix(1 0 0 1 2284 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00bcd4</text>
+		<text transform="matrix(1 0 0 1 2284 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00acc1</text>
+		<text transform="matrix(1 0 0 1 2284 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#0097a7</text>
+		<text transform="matrix(1 0 0 1 2284 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00838f</text>
+		<text transform="matrix(1 0 0 1 2284 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#006064</text>
+		<text transform="matrix(1 0 0 1 2284 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#84ffff</text>
+		<text transform="matrix(1 0 0 1 2284 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#18ffff</text>
+		<text transform="matrix(1 0 0 1 2284 2816.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00e5ff</text>
+		<text transform="matrix(1 0 0 1 2284 3000.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00b8d4</text>
+		<text transform="matrix(1 0 0 1 2588 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e0f2f1</text>
+		<text transform="matrix(1 0 0 1 2588 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#b2dfdb</text>
+		<text transform="matrix(1 0 0 1 2588 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#80cbc4</text>
+		<text transform="matrix(1 0 0 1 2588 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#4db6ac</text>
+		<text transform="matrix(1 0 0 1 2588 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#26a69a</text>
+		<text transform="matrix(1 0 0 1 2588 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#009688</text>
+		<text transform="matrix(1 0 0 1 2588 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00897b</text>
+		<text transform="matrix(1 0 0 1 2588 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00796b</text>
+		<text transform="matrix(1 0 0 1 2588 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00695c</text>
+		<text transform="matrix(1 0 0 1 2588 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#004d40</text>
+		<text transform="matrix(1 0 0 1 2588 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#a7ffeb</text>
+		<text transform="matrix(1 0 0 1 2588 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#64ffda</text>
+		<text transform="matrix(1 0 0 1 2588 2816.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#1de9b6</text>
+		<text transform="matrix(1 0 0 1 2588 3000.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00bfa5</text>
+		<text transform="matrix(1 0 0 1 2892 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e8f5e9</text>
+		<text transform="matrix(1 0 0 1 2892 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#c8e6c9</text>
+		<text transform="matrix(1 0 0 1 2892 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#a5d6a7</text>
+		<text transform="matrix(1 0 0 1 2892 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#81c784</text>
+		<text transform="matrix(1 0 0 1 2892 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#66bb6a</text>
+		<text transform="matrix(1 0 0 1 2892 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#4caf50</text>
+		<text transform="matrix(1 0 0 1 2892 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#43a047</text>
+		<text transform="matrix(1 0 0 1 2892 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#388e3c</text>
+		<text transform="matrix(1 0 0 1 2892 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#2e7d32</text>
+		<text transform="matrix(1 0 0 1 2892 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#1b5e20</text>
+		<text transform="matrix(1 0 0 1 2892 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#b9f6ca</text>
+		<text transform="matrix(1 0 0 1 2892 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#69f0ae</text>
+		<text transform="matrix(1 0 0 1 2892 2816.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00e676</text>
+		<text transform="matrix(1 0 0 1 2892 3000.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#00c853</text>
+		<text transform="matrix(1 0 0 1 3196 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f1f8e9</text>
+		<text transform="matrix(1 0 0 1 3196 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#dcedc8</text>
+		<text transform="matrix(1 0 0 1 3196 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#c5e1a5</text>
+		<text transform="matrix(1 0 0 1 3196 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#aed581</text>
+		<text transform="matrix(1 0 0 1 3196 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#9ccc65</text>
+		<text transform="matrix(1 0 0 1 3196 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#8bc34a</text>
+		<text transform="matrix(1 0 0 1 3196 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#7cb342</text>
+		<text transform="matrix(1 0 0 1 3196 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#689f38</text>
+		<text transform="matrix(1 0 0 1 3196 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#558b2f</text>
+		<text transform="matrix(1 0 0 1 3196 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#33691e</text>
+		<text transform="matrix(1 0 0 1 3196 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ccff90</text>
+		<text transform="matrix(1 0 0 1 3196 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#b2ff59</text>
+		<text transform="matrix(1 0 0 1 3196 2816.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#76ff03</text>
+		<text transform="matrix(1 0 0 1 3196 3000.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#64dd17</text>
+		<text transform="matrix(1 0 0 1 3500 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f9fbe7</text>
+		<text transform="matrix(1 0 0 1 3500 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f0f4c3</text>
+		<text transform="matrix(1 0 0 1 3500 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e6ee9c</text>
+		<text transform="matrix(1 0 0 1 3500 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#dce775</text>
+		<text transform="matrix(1 0 0 1 3500 1160.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#d4e157</text>
+		<text transform="matrix(1 0 0 1 3500 1344.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#cddc39</text>
+		<text transform="matrix(1 0 0 1 3500 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#c0ca33</text>
+		<text transform="matrix(1 0 0 1 3500 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#afb42b</text>
+		<text transform="matrix(1 0 0 1 3500 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#9e9d24</text>
+		<text transform="matrix(1 0 0 1 3500 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#827717</text>
+		<text transform="matrix(1 0 0 1 3500 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f4ff81</text>
+		<text transform="matrix(1 0 0 1 3500 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#eeff41</text>
+		<text transform="matrix(1 0 0 1 3500 2816.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#c6ff00</text>
+		<text transform="matrix(1 0 0 1 3500 3000.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#aeea00</text>
+		<text transform="matrix(1 0 0 1 3804 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fffde7</text>
+		<text transform="matrix(1 0 0 1 3804 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fff9c4</text>
+		<text transform="matrix(1 0 0 1 3804 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fff59d</text>
+		<text transform="matrix(1 0 0 1 3804 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fff176</text>
+		<text transform="matrix(1 0 0 1 3804 1160.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffee58</text>
+		<text transform="matrix(1 0 0 1 3804 1344.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffeb3b</text>
+		<text transform="matrix(1 0 0 1 3804 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fdd835</text>
+		<text transform="matrix(1 0 0 1 3804 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fbc02d</text>
+		<text transform="matrix(1 0 0 1 3804 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f9a825</text>
+		<text transform="matrix(1 0 0 1 3804 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f57f17</text>
+		<text transform="matrix(1 0 0 1 3804 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffff8d</text>
+		<text transform="matrix(1 0 0 1 3804 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffff00</text>
+		<text transform="matrix(1 0 0 1 3804 2816.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffea00</text>
+		<text transform="matrix(1 0 0 1 3804 3000.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffd600</text>
+		<text transform="matrix(1 0 0 1 4108 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fff8e1</text>
+		<text transform="matrix(1 0 0 1 4108 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffecb3</text>
+		<text transform="matrix(1 0 0 1 4108 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffe082</text>
+		<text transform="matrix(1 0 0 1 4108 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffd54f</text>
+		<text transform="matrix(1 0 0 1 4108 1160.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffca28</text>
+		<text transform="matrix(1 0 0 1 4108 1344.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffc107</text>
+		<text transform="matrix(1 0 0 1 4108 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffb300</text>
+		<text transform="matrix(1 0 0 1 4108 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffa000</text>
+		<text transform="matrix(1 0 0 1 4108 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff8f00</text>
+		<text transform="matrix(1 0 0 1 4108 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff6f00</text>
+		<text transform="matrix(1 0 0 1 4108 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffe57f</text>
+		<text transform="matrix(1 0 0 1 4108 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffd740</text>
+		<text transform="matrix(1 0 0 1 4108 2816.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffc400</text>
+		<text transform="matrix(1 0 0 1 4108 3000.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffab00</text>
+		<text transform="matrix(1 0 0 1 4412 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fff3e0</text>
+		<text transform="matrix(1 0 0 1 4412 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffe0b2</text>
+		<text transform="matrix(1 0 0 1 4412 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffcc80</text>
+		<text transform="matrix(1 0 0 1 4412 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffb74d</text>
+		<text transform="matrix(1 0 0 1 4412 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffa726</text>
+		<text transform="matrix(1 0 0 1 4412 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff9800</text>
+		<text transform="matrix(1 0 0 1 4412 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fb8c00</text>
+		<text transform="matrix(1 0 0 1 4412 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f57c00</text>
+		<text transform="matrix(1 0 0 1 4412 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ef6c00</text>
+		<text transform="matrix(1 0 0 1 4412 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e65100</text>
+		<text transform="matrix(1 0 0 1 4412 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffd180</text>
+		<text transform="matrix(1 0 0 1 4412 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffab40</text>
+		<text transform="matrix(1 0 0 1 4412 2816.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff9100</text>
+		<text transform="matrix(1 0 0 1 4412 3000.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff6d00</text>
+		<text transform="matrix(1 0 0 1 4716 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fbe9e7</text>
+		<text transform="matrix(1 0 0 1 4716 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffccbc</text>
+		<text transform="matrix(1 0 0 1 4716 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffab91</text>
+		<text transform="matrix(1 0 0 1 4716 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff8a65</text>
+		<text transform="matrix(1 0 0 1 4716 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff7043</text>
+		<text transform="matrix(1 0 0 1 4716 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff5722</text>
+		<text transform="matrix(1 0 0 1 4716 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f4511e</text>
+		<text transform="matrix(1 0 0 1 4716 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e64a19</text>
+		<text transform="matrix(1 0 0 1 4716 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#d84315</text>
+		<text transform="matrix(1 0 0 1 4716 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#bf360c</text>
+		<text transform="matrix(1 0 0 1 4716 2448.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff9e80</text>
+		<text transform="matrix(1 0 0 1 4716 2632.8799)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff6e40</text>
+		<text transform="matrix(1 0 0 1 4716 2816.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ff3d00</text>
+		<text transform="matrix(1 0 0 1 4716 3000.8799)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#dd2c00</text>
+		<text transform="matrix(1 0 0 1 5020 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#efebe9</text>
+		<text transform="matrix(1 0 0 1 5020 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#d7ccc8</text>
+		<text transform="matrix(1 0 0 1 5020 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#bcaaa4</text>
+		<text transform="matrix(1 0 0 1 5020 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#a1887f</text>
+		<text transform="matrix(1 0 0 1 5020 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#8d6e63</text>
+		<text transform="matrix(1 0 0 1 5020 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#795548</text>
+		<text transform="matrix(1 0 0 1 5020 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#6d4c41</text>
+		<text transform="matrix(1 0 0 1 5020 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#5d4037</text>
+		<text transform="matrix(1 0 0 1 5020 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#4e342e</text>
+		<text transform="matrix(1 0 0 1 5020 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#3e2723</text>
+		<text transform="matrix(1 0 0 1 5324 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#fafafa</text>
+		<text transform="matrix(1 0 0 1 5324 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#f5f5f5</text>
+		<text transform="matrix(1 0 0 1 5324 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#eeeeee</text>
+		<text transform="matrix(1 0 0 1 5324 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#e0e0e0</text>
+		<text transform="matrix(1 0 0 1 5324 1160.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#bdbdbd</text>
+		<text transform="matrix(1 0 0 1 5324 1344.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#9e9e9e</text>
+		<text transform="matrix(1 0 0 1 5324 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#757575</text>
+		<text transform="matrix(1 0 0 1 5324 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#616161</text>
+		<text transform="matrix(1 0 0 1 5324 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#424242</text>
+		<text transform="matrix(1 0 0 1 5324 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#212121</text>
+		<text transform="matrix(1 0 0 1 5628 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#eceff1</text>
+		<text transform="matrix(1 0 0 1 5628 608.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#cfd8dc</text>
+		<text transform="matrix(1 0 0 1 5628 792.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#b0bec5</text>
+		<text transform="matrix(1 0 0 1 5628 976.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#90a4ae</text>
+		<text transform="matrix(1 0 0 1 5628 1160.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#78909c</text>
+		<text transform="matrix(1 0 0 1 5628 1344.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#607d8b</text>
+		<text transform="matrix(1 0 0 1 5628 1528.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#546e7a</text>
+		<text transform="matrix(1 0 0 1 5628 1712.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#455a64</text>
+		<text transform="matrix(1 0 0 1 5628 1896.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#37474f</text>
+		<text transform="matrix(1 0 0 1 5628 2080.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#263238</text>
+		<text transform="matrix(1 0 0 1 5932 424.7676)" font-family="'ProximaNovaSoft-Bold'" font-size="32">#ffffff</text>
+		<text transform="matrix(1 0 0 1 5932 608.7676)" fill="#FFFFFF" font-family="'ProximaNovaSoft-Bold'" font-size="32">#000000</text>
+	</g>
+</g>
+<g id="html-color-codes_1_">
+	<g id="html-color-codes">
+		<g>
+			<path d="M471.771,185.812c-2.808,0-5.112-2.304-5.112-5.112v-15.481h-22.682v15.553c0,2.736-2.305,5.041-5.185,5.041
+				c-2.736,0-5.041-2.304-5.041-5.041V141.96c0-2.736,2.304-5.04,5.185-5.04c2.736,0,5.041,2.304,5.041,5.04v14.257h22.682V141.96
+				c0-2.736,2.304-5.04,5.256-5.04c2.736,0,5.041,2.304,5.041,5.04v38.74C476.956,183.508,474.652,185.812,471.771,185.812z"/>
+			<path d="M519.218,146.353h-10.009V180.7c0,2.808-2.304,5.112-5.185,5.112c-2.808,0-5.112-2.304-5.112-5.112v-34.347h-10.009
+				c-2.448,0-4.464-2.016-4.464-4.608c0-2.376,2.016-4.393,4.464-4.393h30.313c2.376,0,4.393,2.016,4.393,4.537
+				C523.611,144.337,521.595,146.353,519.218,146.353z"/>
+			<path d="M578.042,185.812c-2.808,0-5.112-2.304-5.112-5.112v-28.947l-12.961,32.187c-0.432,1.08-1.512,1.872-2.88,1.872
+				c-1.224,0-2.304-0.792-2.735-1.872l-12.961-32.187v29.019c0,2.736-2.306,5.041-5.186,5.041c-2.736,0-5.041-2.304-5.041-5.041
+				v-37.659c0-3.168,2.592-5.761,5.76-5.761c4.682-0.504,8.713,0.504,10.441,4.681l9.793,24.338l9.793-24.338
+				c1.152-2.808,3.816-4.681,6.984-4.681c4.607-0.72,9.289,1.008,9.289,5.761V180.7
+				C583.227,183.508,580.923,185.812,578.042,185.812z"/>
+			<path d="M620.736,185.38h-20.811c-3.168,0-5.76-2.592-5.76-5.761V141.96c0-2.736,2.304-5.04,5.186-5.04
+				c2.735,0,5.039,2.304,5.039,5.04v34.419h16.347c2.376,0,4.393,2.017,4.393,4.393C625.129,183.364,623.112,185.38,620.736,185.38z
+				"/>
+			<path d="M693.889,144.481c0.648,0.792,1.008,1.872,1.008,2.808c0,2.592-2.231,4.608-4.896,4.608
+				c-1.368,0-2.736-0.576-3.744-1.656c-2.735-2.88-6.265-4.608-9.864-4.608c-8.713,0-15.05,6.697-15.05,15.77
+				s6.337,15.77,15.05,15.77c3.601,0,7.2-1.584,9.864-4.537c1.008-1.08,2.448-1.656,3.888-1.656c2.592,0,4.681,2.016,4.681,4.464
+				c0,1.008-0.288,2.016-1.009,2.809c-3.601,4.392-9.145,7.993-17.426,7.993c-14.4,0-25.562-10.081-25.562-24.842
+				s11.161-24.842,25.562-24.842C684.672,136.56,690.217,140.088,693.889,144.481z"/>
+			<path d="M719.951,186.244c-11.449,0-18.362-8.354-18.362-18.29c0-9.865,6.913-18.218,18.362-18.218
+				c11.521,0,18.434,8.353,18.434,18.218C738.384,177.891,731.472,186.244,719.951,186.244z M719.951,157.874
+				c-5.689,0-8.857,4.68-8.857,10.081c0,5.472,3.168,10.153,8.857,10.153c5.688,0,8.929-4.681,8.929-10.153
+				C728.879,162.554,725.639,157.874,719.951,157.874z"/>
+			<path d="M751.125,185.812c-2.52,0-4.536-2.016-4.536-4.537v-39.891c0-2.448,2.017-4.464,4.681-4.464
+				c2.447,0,4.463,2.016,4.463,4.464v39.891C755.732,183.796,753.717,185.812,751.125,185.812z"/>
+			<path d="M782.374,186.244c-11.449,0-18.362-8.354-18.362-18.29c0-9.865,6.913-18.218,18.362-18.218
+				c11.521,0,18.435,8.353,18.435,18.218C800.807,177.891,793.895,186.244,782.374,186.244z M782.374,157.874
+				c-5.688,0-8.856,4.68-8.856,10.081c0,5.472,3.168,10.153,8.856,10.153s8.929-4.681,8.929-10.153
+				C791.302,162.554,788.062,157.874,782.374,157.874z"/>
+			<path d="M825.284,158.738c-2.808,0.36-5.472,1.512-7.128,3.672v18.866c0,2.521-2.016,4.537-4.465,4.537h-0.144
+				c-2.52,0-4.536-2.016-4.536-4.537v-26.642c0-2.448,2.017-4.464,4.68-4.464c2.449,0,4.465,2.016,4.465,4.464v0.72
+				c1.728-2.304,4.031-5.041,7.488-5.041c2.664,0,4.032,1.656,4.032,3.744C829.677,156.794,827.805,158.378,825.284,158.738z"/>
+			<path d="M897.213,144.481c0.648,0.792,1.008,1.872,1.008,2.808c0,2.592-2.231,4.608-4.896,4.608
+				c-1.368,0-2.736-0.576-3.744-1.656c-2.736-2.88-6.265-4.608-9.865-4.608c-8.712,0-15.049,6.697-15.049,15.77
+				s6.337,15.77,15.049,15.77c3.601,0,7.201-1.584,9.865-4.537c1.008-1.08,2.448-1.656,3.888-1.656c2.592,0,4.68,2.016,4.68,4.464
+				c0,1.008-0.287,2.016-1.008,2.809c-3.601,4.392-9.145,7.993-17.426,7.993c-14.4,0-25.562-10.081-25.562-24.842
+				s11.162-24.842,25.562-24.842C887.997,136.56,893.541,140.088,897.213,144.481z"/>
+			<path d="M923.275,186.244c-11.449,0-18.362-8.354-18.362-18.29c0-9.865,6.913-18.218,18.362-18.218
+				c11.521,0,18.434,8.353,18.434,18.218C941.709,177.891,934.796,186.244,923.275,186.244z M923.275,157.874
+				c-5.688,0-8.857,4.68-8.857,10.081c0,5.472,3.168,10.153,8.857,10.153c5.688,0,8.929-4.681,8.929-10.153
+				C932.204,162.554,928.964,157.874,923.275,157.874z"/>
+			<path d="M978.355,185.812c-2.521,0-4.537-2.016-4.537-4.537v-0.36c-2.736,3.456-6.553,5.329-10.729,5.329
+				c-8.785,0-15.409-6.625-15.409-18.218c0-11.377,6.553-18.29,15.409-18.29c4.104,0,7.993,1.8,10.729,5.329v-13.609
+				c0-2.52,2.016-4.536,4.681-4.536c2.521,0,4.536,2.016,4.536,4.536v39.819C983.036,183.796,981.02,185.812,978.355,185.812z
+				 M973.818,161.834c-1.512-2.304-4.823-3.96-7.92-3.96c-5.185,0-8.784,4.104-8.784,10.153c0,5.977,3.601,10.081,8.784,10.081
+				c3.097,0,6.408-1.656,7.92-3.96V161.834z"/>
+			<path d="M1022.347,170.907h-21.458c0.576,4.392,4.104,8.064,10.01,8.064c1.943,0,4.607-0.576,6.769-1.728
+				c0.576-0.288,1.224-0.432,1.8-0.432c1.944,0,3.889,1.512,3.889,3.672c0,4.104-8.856,5.761-13.465,5.761
+				c-10.585,0-18.578-7.129-18.578-18.29c0-10.081,7.418-18.218,18.002-18.218c7.849,0,13.824,4.537,16.272,11.737
+				c0.504,1.584,1.008,3.528,1.008,5.257C1026.596,168.963,1024.725,170.907,1022.347,170.907z M1009.314,157.009
+				c-5.688,0-8.138,4.249-8.569,7.705h17.138C1017.667,161.402,1015.363,157.009,1009.314,157.009z"/>
+			<path d="M1047.329,186.244c-4.536,0-11.81-1.512-13.97-4.608c-0.432-0.576-0.647-1.224-0.647-1.944
+				c0-2.16,1.872-3.816,3.815-3.816c0.648,0,1.297,0.144,1.873,0.504c2.735,1.584,6.336,2.809,9.36,2.809
+				c3.96,0,5.833-1.584,5.833-3.745c0-5.76-20.666-1.08-20.666-14.761c0-5.833,5.113-10.945,14.258-10.945
+				c4.536,0,10.729,1.44,12.672,4.249c0.36,0.504,0.576,1.152,0.576,1.8c0,1.944-1.728,3.457-3.6,3.457
+				c-0.576,0-1.225-0.145-1.729-0.432c-2.231-1.296-5.041-2.088-7.849-2.088c-3.312,0-5.473,1.512-5.473,3.457
+				c0,5.185,20.594,0.864,20.594,14.905C1062.378,181.42,1056.979,186.244,1047.329,186.244z"/>
+		</g>
+		<g>
+			<path fill="#C3C3C3" d="M450.381,245.596c-1.404,0-2.556-1.152-2.556-2.556v-7.739h-11.338v7.775c0,1.368-1.152,2.52-2.592,2.52
+				c-1.368,0-2.52-1.152-2.52-2.52v-19.401c0-1.368,1.152-2.52,2.592-2.52c1.368,0,2.521,1.152,2.521,2.52v7.127h11.338v-7.127
+				c0-1.368,1.152-2.52,2.627-2.52c1.368,0,2.52,1.152,2.52,2.52v19.365C452.973,244.444,451.821,245.596,450.381,245.596z"/>
+			<path fill="#C3C3C3" d="M474.825,225.87h-5.003v17.17c0,1.404-1.152,2.556-2.592,2.556c-1.404,0-2.556-1.152-2.556-2.556v-17.17
+				h-5.003c-1.224,0-2.231-1.008-2.231-2.304c0-1.188,1.008-2.195,2.231-2.195h15.154c1.188,0,2.196,1.008,2.196,2.268
+				C477.021,224.862,476.013,225.87,474.825,225.87z"/>
+			<path fill="#C3C3C3" d="M504.956,245.596c-1.404,0-2.556-1.152-2.556-2.556v-14.47l-6.479,16.09
+				c-0.216,0.54-0.756,0.936-1.44,0.936c-0.612,0-1.152-0.396-1.368-0.936l-6.479-16.09v14.506c0,1.368-1.151,2.52-2.591,2.52
+				c-1.368,0-2.52-1.152-2.52-2.52V224.25c0-1.584,1.296-2.879,2.88-2.879c2.34-0.252,4.354,0.252,5.219,2.339l4.896,12.167
+				l4.896-12.167c0.576-1.404,1.908-2.339,3.491-2.339c2.304-0.36,4.644,0.504,4.644,2.879v18.79
+				C507.547,244.444,506.396,245.596,504.956,245.596z"/>
+			<path fill="#C3C3C3" d="M527.025,245.38h-10.403c-1.584,0-2.88-1.296-2.88-2.88v-18.825c0-1.368,1.152-2.52,2.592-2.52
+				c1.368,0,2.52,1.152,2.52,2.52v17.205h8.172c1.188,0,2.195,1.008,2.195,2.196C529.221,244.372,528.212,245.38,527.025,245.38z"/>
+			<path fill="#C3C3C3" d="M553.412,224.935c0.324,0.396,0.504,0.937,0.504,1.404c0,1.296-1.116,2.304-2.448,2.304
+				c-0.684,0-1.368-0.288-1.872-0.828c-1.367-1.44-3.131-2.304-4.931-2.304c-4.354,0-7.522,3.348-7.522,7.883
+				c0,4.535,3.168,7.883,7.522,7.883c1.8,0,3.599-0.792,4.931-2.268c0.504-0.54,1.225-0.828,1.944-0.828
+				c1.296,0,2.34,1.008,2.34,2.232c0,0.504-0.144,1.008-0.504,1.404c-1.8,2.196-4.572,3.996-8.711,3.996
+				c-7.199,0-12.779-5.04-12.779-12.418c0-7.379,5.58-12.418,12.779-12.418C548.805,220.975,551.577,222.739,553.412,224.935z"/>
+			<path fill="#C3C3C3" d="M570.585,245.812c-7.235,0-12.526-5.184-12.526-12.418c0-7.235,5.291-12.418,12.526-12.418
+				c7.271,0,12.562,5.184,12.562,12.418S577.855,245.812,570.585,245.812z M570.585,225.51c-4.428,0-7.271,3.384-7.271,7.883
+				c0,4.463,2.844,7.883,7.271,7.883s7.308-3.419,7.308-7.883C577.893,228.894,575.013,225.51,570.585,225.51z"/>
+			<path fill="#C3C3C3" d="M601.473,245.38H591.07c-1.584,0-2.881-1.296-2.881-2.88v-18.825c0-1.368,1.152-2.52,2.593-2.52
+				c1.368,0,2.52,1.152,2.52,2.52v17.205h8.171c1.188,0,2.196,1.008,2.196,2.196C603.669,244.372,602.661,245.38,601.473,245.38z"/>
+			<path fill="#C3C3C3" d="M618.861,245.812c-7.235,0-12.527-5.184-12.527-12.418c0-7.235,5.292-12.418,12.527-12.418
+				c7.271,0,12.562,5.184,12.562,12.418S626.132,245.812,618.861,245.812z M618.861,225.51c-4.428,0-7.271,3.384-7.271,7.883
+				c0,4.463,2.844,7.883,7.271,7.883c4.427,0,7.307-3.419,7.307-7.883C626.168,228.894,623.289,225.51,618.861,225.51z"/>
+			<path fill="#C3C3C3" d="M650.505,236.237l3.312,5.616c0.217,0.396,0.324,0.828,0.324,1.224c0,1.224-1.008,2.52-2.52,2.52
+				c-0.9,0-1.729-0.468-2.196-1.296l-4.104-7.451h-3.743v6.228c0,1.368-1.152,2.52-2.592,2.52c-1.368,0-2.521-1.152-2.521-2.52
+				v-18.826c0-1.584,1.296-2.879,2.88-2.879h8.352c5.003,0,8.062,3.275,8.062,7.739C655.76,233.358,653.097,235.625,650.505,236.237
+				z M641.578,225.87v6.479h5.363c2.052,0,3.599-1.224,3.599-3.24s-1.547-3.24-3.599-3.24L641.578,225.87L641.578,225.87z"/>
+			<path fill="#C3C3C3" d="M681.428,224.935c0.324,0.396,0.504,0.937,0.504,1.404c0,1.296-1.115,2.304-2.447,2.304
+				c-0.685,0-1.368-0.288-1.872-0.828c-1.368-1.44-3.132-2.304-4.932-2.304c-4.354,0-7.522,3.348-7.522,7.883
+				c0,4.535,3.168,7.883,7.522,7.883c1.8,0,3.6-0.792,4.932-2.268c0.504-0.54,1.224-0.828,1.943-0.828
+				c1.296,0,2.341,1.008,2.341,2.232c0,0.504-0.145,1.008-0.504,1.404c-1.801,2.196-4.572,3.996-8.712,3.996
+				c-7.198,0-12.778-5.04-12.778-12.418c0-7.379,5.58-12.418,12.778-12.418C676.82,220.975,679.592,222.739,681.428,224.935z"/>
+			<path fill="#C3C3C3" d="M698.602,245.812c-7.235,0-12.527-5.184-12.527-12.418c0-7.235,5.292-12.418,12.527-12.418
+				c7.271,0,12.562,5.184,12.562,12.418S705.872,245.812,698.602,245.812z M698.602,225.51c-4.429,0-7.271,3.384-7.271,7.883
+				c0,4.463,2.844,7.883,7.271,7.883c4.427,0,7.307-3.419,7.307-7.883C705.908,228.894,703.028,225.51,698.602,225.51z"/>
+			<path fill="#C3C3C3" d="M725.673,245.38h-6.587c-1.584,0-2.88-1.296-2.88-2.88v-18.25c0-1.584,1.296-2.879,2.88-2.879h6.587
+				c7.523,0,12.743,4.787,12.743,12.021C738.416,240.629,733.196,245.38,725.673,245.38z M725.673,225.87h-4.354v15.01h4.354
+				c4.751,0,7.523-3.419,7.523-7.487C733.196,229.146,730.604,225.87,725.673,225.87z"/>
+			<path fill="#C3C3C3" d="M758.503,245.38h-12.13c-1.584,0-2.88-1.296-2.88-2.88v-18.25c0-1.584,1.296-2.879,2.88-2.879h12.13
+				c1.188,0,2.196,1.008,2.196,2.268c0,1.224-1.008,2.231-2.196,2.231h-9.899v5.076h9.647c1.188,0,2.196,1.008,2.196,2.268
+				c0,1.224-1.008,2.232-2.196,2.232h-9.647v5.434h9.899c1.188,0,2.196,1.008,2.196,2.196
+				C760.699,244.372,759.691,245.38,758.503,245.38z"/>
+			<path fill="#C3C3C3" d="M774.452,245.812c-3.492,0-7.812-1.152-9.144-3.132c-0.252-0.36-0.396-0.792-0.396-1.224
+				c0-1.368,1.188-2.376,2.412-2.376c0.468,0,0.972,0.108,1.368,0.396c1.619,1.116,3.671,1.872,6.011,1.872
+				c2.808,0,4.175-1.296,4.175-2.664c0-4.247-13.822-1.332-13.822-10.367c0-3.995,3.456-7.307,9.107-7.307
+				c2.736,0,6.911,0.9,8.243,2.664c0.288,0.36,0.432,0.792,0.432,1.224c0,1.368-1.332,2.304-2.556,2.304
+				c-0.433,0-0.864-0.108-1.297-0.36c-1.655-0.936-3.526-1.368-5.291-1.368c-2.195,0-3.42,0.972-3.42,2.412
+				c0,3.815,13.787,1.26,13.787,10.223C784.062,242.5,780.932,245.812,774.452,245.812z"/>
+			<path fill="#C3C3C3" d="M791.193,245.776c-1.584,0-2.916-1.332-2.916-2.916s1.332-2.916,2.916-2.916s2.916,1.332,2.916,2.916
+				C794.107,244.444,792.777,245.776,791.193,245.776z"/>
+			<path fill="#C3C3C3" d="M819.99,224.935c0.324,0.396,0.504,0.937,0.504,1.404c0,1.296-1.116,2.304-2.448,2.304
+				c-0.684,0-1.368-0.288-1.872-0.828c-1.367-1.44-3.131-2.304-4.931-2.304c-4.355,0-7.523,3.348-7.523,7.883
+				c0,4.535,3.168,7.883,7.523,7.883c1.8,0,3.599-0.792,4.931-2.268c0.504-0.54,1.225-0.828,1.944-0.828
+				c1.296,0,2.34,1.008,2.34,2.232c0,0.504-0.144,1.008-0.504,1.404c-1.8,2.196-4.572,3.996-8.711,3.996
+				c-7.199,0-12.779-5.04-12.779-12.418c0-7.379,5.58-12.418,12.779-12.418C815.383,220.975,818.155,222.739,819.99,224.935z"/>
+			<path fill="#C3C3C3" d="M837.164,245.812c-7.235,0-12.527-5.184-12.527-12.418c0-7.235,5.292-12.418,12.527-12.418
+				c7.271,0,12.562,5.184,12.562,12.418S844.436,245.812,837.164,245.812z M837.164,225.51c-4.428,0-7.271,3.384-7.271,7.883
+				c0,4.463,2.845,7.883,7.271,7.883s7.307-3.419,7.307-7.883C844.47,228.894,841.591,225.51,837.164,225.51z"/>
+			<path fill="#C3C3C3" d="M878.202,245.596c-1.404,0-2.556-1.152-2.556-2.556v-14.47l-6.479,16.09
+				c-0.216,0.54-0.756,0.936-1.44,0.936c-0.611,0-1.151-0.396-1.367-0.936l-6.479-16.09v14.506c0,1.368-1.151,2.52-2.591,2.52
+				c-1.368,0-2.52-1.152-2.52-2.52V224.25c0-1.584,1.295-2.879,2.879-2.879c2.341-0.252,4.355,0.252,5.22,2.339l4.896,12.167
+				l4.896-12.167c0.576-1.404,1.908-2.339,3.49-2.339c2.305-0.36,4.645,0.504,4.645,2.879v18.79
+				C880.793,244.444,879.643,245.596,878.202,245.596z"/>
+		</g>
+		<text transform="matrix(1 0 0 1 2405.7915 218.3799)" fill="#C3C3C3" font-family="'ProximaNovaSoft-Bold'" font-size="120">Material Design Color Chart</text>
+		<g>
+			<path fill="#581845" d="M275,245.88v-33.104c7.189,0,13.946-2.802,19.026-7.888l23.423,23.393
+				C306.114,239.63,291.04,245.88,275,245.88z"/>
+			<path fill="#900C3F" d="M317.444,228.286l-23.414-23.401c5.073-5.076,7.866-11.825,7.866-19.005H335
+				C335,201.9,328.765,216.959,317.444,228.286z"/>
+			<path fill="#C70039" d="M335,185.88h-33.104c0-7.18-2.8-13.936-7.884-19.022l23.413-23.401
+				C328.759,154.794,335,169.861,335,185.88z"/>
+			<path fill="#FF5733" d="M275,245.88c-33.084,0-60-26.916-60-60s26.916-60,60-60c0.003,0,0.008,0,0.01,0
+				c16.003,0,31.062,6.235,42.404,17.561l-23.389,23.426c-5.091-5.083-11.845-7.883-19.018-7.883c-0.001,0-0.002,0-0.004,0
+				c-14.834,0-26.899,12.065-26.899,26.896s12.065,26.896,26.896,26.896V245.88z"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 2020.8579 3552.3457)" font-family="'ProximaNovaSoft-Bold'" font-size="240" letter-spacing="4">htmlcolorcodes.com</text>
+	<text transform="matrix(1 0 0 1 2020.8579 -180)" font-family="'ProximaNovaSoft-Bold'" font-size="240" letter-spacing="4">htmlcolorcodes.com</text>
+	<text transform="matrix(0 1 -1 0 6484.001 427.9146)" font-family="'ProximaNovaSoft-Bold'" font-size="240" letter-spacing="4">htmlcolorcodes.com</text>
+	<text transform="matrix(0 -1 1 0 -160 2706.1992)" font-family="'ProximaNovaSoft-Bold'" font-size="240" letter-spacing="4">htmlcolorcodes.com</text>
+</g>
+</svg>

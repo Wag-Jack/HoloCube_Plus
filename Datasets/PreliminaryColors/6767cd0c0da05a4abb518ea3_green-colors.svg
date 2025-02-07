@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+    <rect x="0" y="0" width="200" height="150" fill="#00FF00"/><text x="100" y="75" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Green</text>
+    <rect x="200" y="0" width="200" height="150" fill="#66FF00"/><text x="300" y="75" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Bright Green</text>
+    <rect x="400" y="0" width="200" height="150" fill="#00FF00"/><text x="500" y="75" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Electric Green</text>
+    <rect x="600" y="0" width="200" height="150" fill="#32CD32"/><text x="700" y="75" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Lime Green</text>
+    <rect x="800" y="0" width="200" height="150" fill="#3CB371"/><text x="900" y="75" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Medium Green</text>
+    
+    <rect x="0" y="150" width="200" height="150" fill="#2E8B57"/><text x="100" y="225" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Sea Green</text>
+    <rect x="200" y="150" width="200" height="150" fill="#228B22"/><text x="300" y="225" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Forest Green</text>
+    <rect x="400" y="150" width="200" height="150" fill="#50C878"/><text x="500" y="225" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Emerald Green</text>
+    <rect x="600" y="150" width="200" height="150" fill="#009E60"/><text x="700" y="225" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Shamrock Green</text>
+    <rect x="800" y="150" width="200" height="150" fill="#4CBB17"/><text x="900" y="225" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Kelly Green</text>
+    
+    <rect x="0" y="300" width="200" height="150" fill="#808000"/><text x="100" y="375" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Olive Green</text>
+    <rect x="200" y="300" width="200" height="150" fill="#006400"/><text x="300" y="375" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Dark Green</text>
+    <rect x="400" y="300" width="200" height="150" fill="#00FF7F"/><text x="500" y="375" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Spring Green</text>
+    <rect x="600" y="300" width="200" height="150" fill="#90EE90"/><text x="700" y="375" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Light Green</text>
+    <rect x="800" y="300" width="200" height="150" fill="#98FB98"/><text x="900" y="375" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Pale Green</text>
+    
+    <rect x="0" y="450" width="200" height="150" fill="#98FF98"/><text x="100" y="525" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Mint Green</text>
+    <rect x="200" y="450" width="200" height="150" fill="#7FFF00"/><text x="300" y="525" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Chartreuse</text>
+    <rect x="400" y="450" width="200" height="150" fill="#39FF14"/><text x="500" y="525" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Neon Green</text>
+    <rect x="600" y="450" width="200" height="150" fill="#00FA9A"/><text x="700" y="525" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Medium Spring Green</text>
+    <rect x="800" y="450" width="200" height="150" fill="#5E8C31"/><text x="900" y="525" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Maximum Green</text>
+    
+    <rect x="0" y="600" width="200" height="150" fill="#8FBC8F"/><text x="100" y="675" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Dark Sea Green</text>
+    <rect x="200" y="600" width="200" height="150" fill="#006A4E"/><text x="300" y="675" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Bottle Green</text>
+    <rect x="400" y="600" width="200" height="150" fill="#29AB87"/><text x="500" y="675" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Jungle Green</text>
+    <rect x="600" y="600" width="200" height="150" fill="#009698"/><text x="700" y="675" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Viridian</text>
+    <rect x="800" y="600" width="200" height="150" fill="#097969"/><text x="900" y="675" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Cadmium Green</text>
+</svg>

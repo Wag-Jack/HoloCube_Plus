@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+    <rect x="0" y="0" width="200" height="150" fill="#0000FF"/><text x="100" y="75" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Blue</text>
+    <rect x="200" y="0" width="200" height="150" fill="#0096FF"/><text x="300" y="75" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Bright Blue</text>
+    <rect x="400" y="0" width="200" height="150" fill="#7DF9FF"/><text x="500" y="75" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Electric Blue</text>
+    <rect x="600" y="0" width="200" height="150" fill="#00FFFF"/><text x="700" y="75" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Cyan</text>
+    <rect x="800" y="0" width="200" height="150" fill="#87CEEB"/><text x="900" y="75" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Sky Blue</text>
+    
+    <rect x="0" y="150" width="200" height="150" fill="#ADD8E6"/><text x="100" y="225" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Light Blue</text>
+    <rect x="200" y="150" width="200" height="150" fill="#89CFF0"/><text x="300" y="225" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Baby Blue</text>
+    <rect x="400" y="150" width="200" height="150" fill="#4682B4"/><text x="500" y="225" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Steel Blue</text>
+    <rect x="600" y="150" width="200" height="150" fill="#4169E1"/><text x="700" y="225" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Royal Blue</text>
+    <rect x="800" y="150" width="200" height="150" fill="#1E90FF"/><text x="900" y="225" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Dodger Blue</text>
+    
+    <rect x="0" y="300" width="200" height="150" fill="#00BFFF"/><text x="100" y="375" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Deep Sky Blue</text>
+    <rect x="200" y="300" width="200" height="150" fill="#F0FFFF"/><text x="300" y="375" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Azure</text>
+    <rect x="400" y="300" width="200" height="150" fill="#191970"/><text x="500" y="375" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Midnight Blue</text>
+    <rect x="600" y="300" width="200" height="150" fill="#000080"/><text x="700" y="375" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Navy Blue</text>
+    <rect x="800" y="300" width="200" height="150" fill="#99CCFF"/><text x="900" y="375" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Ice Blue</text>
+    
+    <rect x="0" y="450" width="200" height="150" fill="#CCCCFF"/><text x="100" y="525" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Periwinkle</text>
+    <rect x="200" y="450" width="200" height="150" fill="#B0E0E6"/><text x="300" y="525" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Powder Blue</text>
+    <rect x="400" y="450" width="200" height="150" fill="#6495ED"/><text x="500" y="525" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Cornflower Blue</text>
+    <rect x="600" y="450" width="200" height="150" fill="#0047AB"/><text x="700" y="525" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Cobalt Blue</text>
+    <rect x="800" y="450" width="200" height="150" fill="#1560BD"/><text x="900" y="525" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Denim Blue</text>
+    
+    <rect x="0" y="600" width="200" height="150" fill="#B0C4DE"/><text x="100" y="675" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Light Steel Blue</text>
+    <rect x="200" y="600" width="200" height="150" fill="#008080"/><text x="300" y="675" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Teal</text>
+    <rect x="400" y="600" width="200" height="150" fill="#40E0D0"/><text x="500" y="675" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Turquoise</text>
+    <rect x="600" y="600" width="200" height="150" fill="#00BFFF"/><text x="700" y="675" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Capri</text>
+    <rect x="800" y="600" width="200" height="150" fill="#6082B6"/><text x="900" y="675" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="bold">Glaucous</text>
+</svg>
