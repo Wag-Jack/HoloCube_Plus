@@ -57,3 +57,41 @@ class _CameraScreenState extends State<CameraScreen> {
     _controller?.dispose();
     super.dispose();
   }
+  @override
+  Widget build(BuildContext context) {
+    if (_controller == null || !_controller!.value.isInitialized) {
+      return Center(child: CircularProgressIndicator());
+    }
+
+    return Scaffold(
+      body: Stack(
+        children:[
+          CameraPreview(_controller!),
+          Positioned(
+            top: 50,
+            left: 20,
+            right: 20,
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                IconButton(
+                  icon: Icon(isFlashOn ? Icons.flash_on : Icons.flash_off, color: Colors.white),
+                  onPressed: () {
+                    setState(() {
+                      isFlashOn = !isFlashOn;
+                      _controller!.setFlashMode(
+                        isFlashOn ? FlashMode.torch : FlashMode.off,
+                      );
+                    });
+                  },
+                ),
+                Icon(Icons.wb_sunny, color: Colors.white), // Placeholder for Brightness Control
+                IconButton(
+                  icon: Icon(Icons.language, color: Colors.white),
+                  onPressed: () {
+                  },
+                ),
+              ],
+            ),
+          ),
+  
